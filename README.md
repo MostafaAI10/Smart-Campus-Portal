@@ -4,7 +4,7 @@ Some of the backend files (mainly the php files) are AI assisted, as we did not 
 The database is AI generated and some of the SQL queries are also AI generated.
 The frontend is NOT AI generated, the only thing AI helped in was the colors, as we could not make something that visually appealing, all the css placements and displays are NOT AI generated.
 
-01. Introduction 
+01. Introduction.
 1.1 Project Overview 
 The Smart Campus Portal is a full-stack web-based system designed to facilitate academic and 
 campus-related services for students, staff, and administrators. The platform centralizes course 
